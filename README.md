@@ -1,5 +1,6 @@
-# Rebex Buru SFTP Server
+![logo](https://www.rebex.net/Content/Images/logos/buru-sftp-server.png "Logo")
 
+# Rebex Buru SFTP Server
 Public issue and feature tracking repository for closed-source SFTP and SSH server for Windows.
 
 Homepage: [https://www.rebex.net/buru-sftp-server/](https://www.rebex.net/buru-sftp-server/)
